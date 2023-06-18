@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">KalkulatorNilaiApps </string>
+    <string name="text_view">Text View</string>
+    <string name="hitung_nilai_intro">Ayo Hitung Nilai Terbaikmu sekarang!</string>
+    <string name="praktikum">Nilai Kuis</string>
+    <string name="assessment1">Ujian ke-1</string>
+    <string name="hitung">Hitung</string>
+    <string name="assessment2">Ujian ke-2</string>
+    <string name="assessment3">Ujian ke-3</string>
+    <string name="reset">Reset</string>
+    <string name="lihat_saran">Saran</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="nilai_x">NILAI: %1$.2f</string>
+    <string name="index_x">INDEX: %1$s</string>
+    <string name="message">%1$s diklik!</string>
+    <string name="koneksi_error">Koneksi Error</string>
+
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data Penemu otomatis</string>
+    <string name="bagus">A</string>
+    <string name="lumayan">B</string>
+    <string name="notif_title">Ada Penemu baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+    <string name="buruk">C</string>
+    <string name="nilai_invalid">Nilai tidak boleh kosong.</string>
+    <string name="nilai_praktikum">Nilai Kuis</string>
+    <string name="nilai_assessment_1">Nilai Ujian 1</string>
+    <string name="nilai_assessment_2">Nilai Ujian 2</string>
+    <string name="nilai_assessment_3">Nilai Ujian 3</string>
+
+    <string name="judul_a">GoodJob Nilaimu A</string>
+    <string name="judul_b">Nicee, B not Bad</string>
+    <string name="judul_C">Kurang Beruntung Nilaimu C</string>
+    <string name="saran_a">Pertahankan prestasimu dan tingkatkan .</string>
+    <string name="saran_b">Cobalah untuk meluangkan waktu lebih banyak untuk belajar.</string>
+    <string name="saran_c">Cobalah untuk introspeksi diri. Ingat, kesuksesan juga berawal dari kegagalan.</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">KalkulatorNilaiApps Matakuliah merupakan sebuah aplikasi Android untuk menghitung nilai Mata Kuliah kita sehingga seseorang dapat mengetahui apakah nilainya A, B atau C.\n\nAssessment 2 Mobpro 1. \n\n 6706210125- Muhammad Roisa Fajar Al Farizi.</string>
+    <string name="bagikan_template">Nilai praktikum: %1$s \nAssessment 1: \n%2$s\nAssessment 2: %3$s\nAssessment 3: %4$s\nNilai akhir: %5$s\nINDEX: %6$s</string>
+    <string name="belum_ada_histori">Belum ada histori</string>
+    <string name="histori">Histori</string>
+
+    <string name="hasil_x">NILAI: %1$.2f - %2$s</string>
+    <string name="data_x">Praktikum: %1$s - Assessment 1: %2$s \nAssessment 2: %3$s - Assessment 3: %4$s</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Yakin Hapus Semua?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="switch_layout">Ubah Tampilan</string>
+</resources>
