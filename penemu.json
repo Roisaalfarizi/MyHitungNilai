@@ -1,0 +1,45 @@
+[
+    {
+        "judul" : "Thales",
+        "tgl" : "624-550 SM",
+        "imageId" : "tales",
+        "tempat" : "teorema",
+        "deskripsi" : "Matematikawan pertama yang merumuskan teorema atau proposisi, tradisi ini menjadi lebih jelas setelah dijabarkan oleh Euclid."
+    }, 
+    {
+        "judul" : "Pythagoras",
+        "tgl" : "582-496 SM",
+        "imageId" : "pitagoras",
+        "tempat" : "pythagoras",
+        "deskripsi" : "mencetuskan aksioma-aksioma, postulat-postulat yang perlu dijabarkan terlebih dahulu dalam mengembangkan geometri. Bukan orang yang menemukan suatu teorema Pythagoras namun dia berhasil membuat pembuktian matematis. Pythagoras menemukan sebagai bilangan irrasional."
+    },
+    {
+        "judul" : "Socrates",
+        "tgl" : "427-347 SM",
+        "imageId" : "sorates",
+        "tempat" : "Pencipta ajaran serba cita",
+        "deskripsi" : "filosofi besar dari Yunani. Pencipta ajaran serba cita, karena itu filosofinya dinamakan idealisme. Ajarannya lahir karena pergaulannya dengan kaum sofis. Plato merupakan ahli pikir pertama yang menerima paham adanya alam bukan benda."
+    },
+    {
+        "judul" : "Ecluides",
+        "tgl" : "325-265 SM",
+        "imageId" : "eludes",
+        "tempat" : "Bapak Geometri",
+        "deskripsi" : "Mungkin namanya kurang dikenal, tapi beliau disebut sebagai Bapak Geometri gan karena menemukan teori bilangan dan geometri. Subyek-subyek yang dibahas adalah bentuk-bentuk, teorema Pythagoras, persamaan dalam aljabar, lingkaran, tangen,geometri ruang, teori proporsi dan lain-lain. Alat-alat temuan Eukluides antara lain mistar dan jangka yang agan2 pake sekarang di sekolah"
+    },
+    {
+        "judul" : "Socrates",
+        "tgl" : "427-347 SM",
+        "imageId" : "sorates",
+        "tempat" : "Pencipta ajaran serba cita",
+        "deskripsi" : "filosofi besar dari Yunani. Pencipta ajaran serba cita, karena itu filosofinya dinamakan idealisme. Ajarannya lahir karena pergaulannya dengan kaum sofis. Plato merupakan ahli pikir pertama yang menerima paham adanya alam bukan benda."
+    },
+    {
+        "judul" : "Pythagoras",
+        "tgl" : "582-496 SM",
+        "imageId" : "pitagoras",
+        "tempat" : "pythagoras",
+        "deskripsi" : "mencetuskan aksioma-aksioma, postulat-postulat yang perlu dijabarkan terlebih dahulu dalam mengembangkan geometri. Bukan orang yang menemukan suatu teorema Pythagoras namun dia berhasil membuat pembuktian matematis. Pythagoras menemukan sebagai bilangan irrasional."
+    }
+    
+]
